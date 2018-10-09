@@ -9,3 +9,5 @@ I have wrote the following tutorials which walk through how this project is crea
 export API= f5c9fda074b238420e42136723246bd5
 
 https://api.themoviedb.org/3/movie/550?api_key=f5c9fda074b238420e42136723246bd5
+
+this requires npm install -g babel-cli
